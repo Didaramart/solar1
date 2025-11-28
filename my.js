@@ -73,7 +73,7 @@
         ];
 
         const CAROUSEL_IMAGES = [
-            'Ai1.png', 'Ai2.png', 'Ai3.png', 'Ai4.png', 'Ai5.png',
+            'S', 'Ai2.png', 'Ai3.png', 'Ai4.png', 'Ai5.png',
             'Ai6.png', 'Ai7.png', 'Ai8.png', 'Ai9.png', 'P6.webp',
         ];
 
