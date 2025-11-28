@@ -69,22 +69,15 @@
         ];
         
         const HERO_CAROUSEL_IMAGES = [
-            'P5.webp', 'P2.webp', 'P1.jpg', 'P4.webp', 'Ai3.png',
+            'P5.webp', 'P2.webp', 'P1.jpg', 'P4.webp', 'G3.webp',
         ];
 
         const CAROUSEL_IMAGES = [
-            'S', 'Ai2.png', 'Ai3.png', 'Ai4.png', 'Ai5.png',
-            'Ai6.png', 'Ai7.png', 'Ai8.png', 'Ai9.png', 'P6.webp',
+            'G1.webp', 'G2.webp', 'G3.webp', 'G4.webp', 'G5.webp',
+            'G6.webp', 'G7.webp', 'G8.webp', 
         ];
 
-        const SPEC_CAROUSEL_IMAGES = [
-            '360.WebP',
-            '361.WebP',
-            '362.WebP',
-            '363.WebP',
-            '364.WebP',
-            'A10.WebP',
-        ];
+
 
         const NIGERIAN_STATES = [
             "Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno",
